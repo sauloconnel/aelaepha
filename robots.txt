@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexeichubo.parisaqomi.ir/sitemap.xml
